@@ -7,9 +7,9 @@
 
 | Information | À compléter |
 |---|---|
-| Nom et prénom | ... |
-| Classe | ... |
-| Nom d'utilisateur GitHub | ... |
+| Nom et prénom | Alaoui Rida |
+| Classe | A |
+| Nom d'utilisateur GitHub | reda711 |
 
 ## 🧭 Comment travailler
 
