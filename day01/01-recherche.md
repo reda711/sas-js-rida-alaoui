@@ -23,8 +23,6 @@
 
 **Ma réponse :** let est une variable qui peux etre changer ulterieurement 
                  const est une variable avec une valeur fixe 
-                 var est 
-
 > À compléter avec mes propres mots.
 
 ---
@@ -35,8 +33,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
-
+**Ma réponse :** string / number / boolean / bigInt / null / undefined / symbol 
 > À compléter avec mes propres mots.
 
 ---
@@ -47,7 +44,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse :** il s'agit d'une absence de valeur 
 
 > À compléter avec mes propres mots.
 
@@ -59,7 +56,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse :** == est pour comparer la valuer; === est pour comparer la valuer et type primitif de données
 
 > À compléter avec mes propres mots.
 
@@ -71,7 +68,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse :** error
 
 > À compléter avec mes propres mots.
 
@@ -83,7 +80,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse :** Cela ajoutera 5 a 5, ce qui donnera 55. Cette phenomene appelle la coercition de type implicite
 
 > À compléter avec mes propres mots.
 
@@ -95,7 +92,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse :** le modulo % donnez nous le reste de division , L'usage classique le plus courant consiste à identifier les nombres paires.
 
 > À compléter avec mes propres mots.
 
@@ -107,7 +104,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse :** on l'utilise && dans une condition pour avoir plus d'une condition , et pour || on l'utilise pour executer le code quand une des conditions est atteinte
 
 > À compléter avec mes propres mots.
 
@@ -119,7 +116,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse :** quand on compares une meme variable a plusieurs valeurs
 
 > À compléter avec mes propres mots.
 
@@ -131,7 +128,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse :** une valeur comme false dans une condition
 
 > À compléter avec mes propres mots.
 
