@@ -18,4 +18,18 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let hasAccount = false 
+let isGuest = true
+let cartValue = 150
+let isBanned = false
+if(isBanned){
+    console.log("you are banned")
+} 
+else {
+    if(hasAccount || isGuest && cartValue > 100){
+        console.log("Commande validee")
+    }
+    else {
+        console.log("Commande non validee")
+    }
+}

@@ -17,4 +17,13 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let annee = 2024
+let bissextile 
+if(annee % 4 == 0 && annee % 100 != 0){
+    bissextile = true
+    console.log("2024 est une année bissextile.")
+}
+else{
+    bissextile = false
+    console.log("2024 n'est pas une année bissextile.")
+}

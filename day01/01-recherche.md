@@ -21,7 +21,9 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse :** let est une variable qui peux etre changer ulterieurement 
+                 const est une variable avec une valeur fixe 
+                 var est 
 
 > À compléter avec mes propres mots.
 

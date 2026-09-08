@@ -14,4 +14,6 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let note = 14 
+let message = (note >= 10) ? "reussi" : "echoue"
+console.log(message)

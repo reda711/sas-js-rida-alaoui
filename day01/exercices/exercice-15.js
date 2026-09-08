@@ -17,4 +17,8 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let prixExtrait = "  349.99 MAD  " 
+let pricewithoutspace = prixExtrait.trim().replace("MAD" , "")
+    pricewithoutspace= Number(pricewithoutspace)
+let Total = pricewithoutspace * 2 
+    console.log(Total + " type is " + typeof Total)

@@ -17,9 +17,17 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-let panier = 350
+let panier = 550
 let coutfinal
 if(panier >= 200 && panier < 500){
-    coutfinal = panier + " " + "la livraison est gratuite"
-    console.log("coutfinal")
+    coutfinal = panier + " " + "plus la livraison est gratuite"
+    console.log(coutfinal)
+}
+else if(panier < 200){
+    coutfinal = panier + "les frais de livraison"
+    console.log(coutfinal)
+}
+else{
+    coutfinal = panier / 100 * 90 + " plus la livraison est gratuite"
+    console.log(coutfinal) 
 }

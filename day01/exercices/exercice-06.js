@@ -17,8 +17,7 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne. 
-
-for(let compteur = 0 ;compteur <= 3 ; compteur++){
-    
-    console.log(compteur)
+let compteur  
+for(compteur = 0 ;compteur <= 2 ; compteur++){
 }
+console.log(compteur)
