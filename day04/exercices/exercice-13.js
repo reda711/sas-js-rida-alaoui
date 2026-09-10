@@ -30,4 +30,3 @@ function genererMotDePasse(longueur) {
     }    return password   
 
 }
-       console.log(genererMotDePasse(5))
