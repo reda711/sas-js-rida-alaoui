@@ -15,9 +15,5 @@
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
 function words(phrase) {
-    let numofwords = phrase.split(" ")
-    return numofwords 
-    
+    return phrase.trim().split(/\s+/).length
 }
-
-console.log(numofwords);
