@@ -18,15 +18,15 @@ function genererMotDePasse(longueur) {
     let password = ""
     longueur--
     let min = 60
-    let max = 69
     for(let i = longueur ; i >= 0; i--){
-       if(Math.floor(Math.random() * 11) + min == 65){
+       if(Math.floor(Math.random() * 10) + min == 65){
         password = password + String.fromCharCode(65)
        }
        else {
-       let digit = (Math.floor(Math.random() * 11) + min) % 10 
+       let digit = (Math.floor(Math.random() * 10) + min) % 10 
         password = password + digit
        }
     }    return password   
 
 }
+console.log(genererMotDePasse(20))
