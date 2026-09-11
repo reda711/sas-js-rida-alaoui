@@ -15,4 +15,4 @@
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
 let mot = "Programmation"
-console.log(mot.charAt(0))
+console.log(mot.charAt(0) , mot.charAt(mot.length - 1))
