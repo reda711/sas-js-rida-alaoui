@@ -49,10 +49,9 @@ function afficherQuantites() {
         }
     }
     for (let k = 0; k < compteur.length; k++) {
-      result[k] = `${compteur[k]} : ${quantite[k]} `
+      result[k] = `Article ${compteur[k]} : ${quantite[k]} `
       
     }
-    result = String(result)
     return result;
   }
 console.log(ajouterAuPanier(171))
