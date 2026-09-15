@@ -14,8 +14,12 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-let entreprise = {
-    employes: ["Sara", "Reda", "Zakaria"]
+let Youcode = {
+    employes: [
+        {prenom : "Sara"},
+        {prenom : "Reda"},
+        {prenom : "Zakaria"}
+    ]
         }
-     console.log(entreprise.employes[1]);
+     console.log(Youcode.employes[1]);
      
