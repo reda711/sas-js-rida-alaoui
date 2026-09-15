@@ -19,5 +19,6 @@
 let msg = '{"id":1, "titre":"Apprendre le JS", "vu":false}'
     msg = JSON.parse(msg)
     msg.vu = true
+    msg = JSON.stringify(msg)
     console.log(msg);
     
